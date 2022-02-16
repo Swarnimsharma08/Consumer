@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.27239583333333334" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.196" />
+        <entry key="app/src/main/res/drawable/action_tile.xml" value="0.196" />
+        <entry key="app/src/main/res/drawable/addmore_button_style.xml" value="0.229" />
+        <entry key="app/src/main/res/drawable/avatar.xml" value="0.196" />
+        <entry key="app/src/main/res/drawable/bg_round.xml" value="0.229" />
+        <entry key="app/src/main/res/drawable/confirm_button_style.xml" value="0.115" />
+        <entry key="app/src/main/res/drawable/food_background.xml" value="0.229" />
+        <entry key="app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.196" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.196" />
+        <entry key="app/src/main/res/drawable/message_squ.xml" value="0.196" />
+        <entry key="app/src/main/res/drawable/phone_shape.xml" value="0.196" />
+        <entry key="app/src/main/res/drawable/rental_button.xml" value="0.196" />
+        <entry key="app/src/main/res/drawable/shadow.xml" value="0.115" />
+        <entry key="app/src/main/res/drawable/stepper.xml" value="0.196" />
+        <entry key="app/src/main/res/drawable/stepper_border.xml" value="0.196" />
+        <entry key="app/src/main/res/drawable/steppershape.xml" value="0.196" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_order_summary.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/custom_dialog.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/food_item.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_order_summary.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/fragment_room_service.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/item.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/item_main.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/laundry_item.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/order_item.xml" value="0.2953125" />
+        <entry key="app/src/main/res/layout/rental_item.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/rentals_item.xml" value="0.2953125" />
+        <entry key="app/src/main/res/layout/subcategory_item.xml" value="0.35581787521079256" />
+        <entry key="app/src/main/res/layout/tourist_item.xml" value="0.25" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2165" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
